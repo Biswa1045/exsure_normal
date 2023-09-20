@@ -1,0 +1,4 @@
+[03-Aug-2022 10:09:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/exsure/public_html/mail.php on line 30
+[03-Aug-2022 10:10:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/exsure/public_html/mail.php on line 30
+[03-Aug-2022 10:11:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/exsure/public_html/mail.php on line 30
+[05-Aug-2022 09:44:24 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/exsure/public_html/form2.php on line 45
