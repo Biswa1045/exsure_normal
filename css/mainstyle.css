@@ -1,0 +1,110 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body, html {
+	 font-family: 'Poppins', sans-serif;
+	height: 100%;
+	margin: 0;
+	color:#5b5a5a!important;
+	font-size: 16px;
+    font-weight: 400;
+   overflow-x: hidden; 
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #161d6b;
+    text-decoration: none;
+}
+
+h1, h2, h3{font-weight:700;}
+p{text-align:justify; word-spacing:5px!important;}
+
+/* slider */
+.back {
+	background: url('../image/slide.jpg');
+	 height:660px;	
+	 width:100%;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+
+.back2 {
+	background: url('../image/abt-bg.jpg');
+	 height:660px;	
+	 width:100%;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+.back3 {
+	background: url('../image/ser-bg.jpg');
+	 height:660px;	
+	 width:100%;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+
+.back4 {
+	background: url('../image/cont-bg.jpg');
+	 height:660px;	
+	 width:100%;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+
+.mtitle{
+	 color:#fff;
+	 padding-top:15rem;
+	 line-height:1.5;
+	 font-weight:bold;
+}
+/* home abt*/
+ .about, .join{
+	  background: url('../image/droplets.jpg');
+	  width:100%;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+ }
+ 
+ .award{background-color:#293a87;color:#fff;}
+.text h2, .update h2, .team h2, .fbox h2{font-weight:700; line-height:1.5;color: #293a85;}
+.text span, .update span, .team span, .join span, .fbox h6{color: #61be83;}
+.more,.rmore{color:#e91e63;}
+
+.news h2 span{color: #61be83;}
+
+.rounded{border-radius:50%!important;}
+.update,.team{background-color:#f2f4fd;}
+.update h2{font-weight:700;}
+.update-text p{text-align:left;}
+
+.fab{
+    padding: 0.6rem;
+    background-color: #5f6ebc!important;
+    font-size: 1.5em;
+    color: #ffffff!important;
+        }
+
+.pub h4{
+    color:#e91e63!important;
+}
+
+/*contact page*/
+.error{
+            color:red;
+        }
+        
+        #contact {padding:25px;}
+        .btn-primary {
+            color: #fff;
+            background-color: #293a85;
+            border-color:#293a85;
+        }
+.contact-detail h6, .contact-detail p{text-align:center;}
+.contact-detail h6 {color:#293a85;}
+.footer .clogo{text-align:right;}
+
+
